@@ -84,5 +84,6 @@ while True:
         print("Hey!, you entered a wrong command")
 
 print("Bye!")
+print("Good Bye!")
 
 
