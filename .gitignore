@@ -1,3 +1,7 @@
 /.venv/
 .idea
 bonus
+/files/doc.txt
+/experiments/e.py
+/files/presentation.txt
+/files/report.txt
