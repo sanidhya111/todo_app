@@ -1,4 +1,3 @@
-as
 fix the line
 Test
 soup
@@ -6,5 +5,5 @@ modified
 remove_space
 With_GUI
 anotherspace
-add_something
-1
+clock
+time
