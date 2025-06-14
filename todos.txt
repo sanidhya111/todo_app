@@ -2,8 +2,7 @@ fix the line
 Test
 soup
 modified
-remove_space
 With_GUI
-anotherspace
 clock
-time
+using image as button
+add another text
